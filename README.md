@@ -2,7 +2,6 @@
 
 These are older of LSPosed IT that have been circulating online.  
 - Not the latest version  
-- Not from official source  
 - You can find similar versions in many places  
 
 For educational/research purposes only.
